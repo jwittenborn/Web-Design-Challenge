@@ -1,0 +1,60 @@
+style.css
+
+
+
+body{
+    background-color: #EDEDED; 
+}
+
+    
+.navbar{
+    max-height: 50px; 
+	background-color: #cacccb; 
+    font-size: 15px; 
+}
+
+.navigation .navbar-brand{
+	color: white; 
+	margin-left: 50px; 
+	padding: inherit; 
+	font-weight: bold; 
+	background-color: #38ab87;
+	font-family: Georgia, Times, "Times New Roman", serif;
+}
+
+.dropdown-item{
+    color: #33547a; 
+}
+
+.container{
+    margin-top: 50px;
+}
+
+h1{
+    margin-top: 40px;
+	color: rgb(41, 194, 168);
+	font-size: 30px;
+	font-family: Arial, Helvetica, sans-serif;
+}
+
+p{
+	color: black;
+	font-size: 14px;
+	font-family: Arial, Helvetica, sans-serif;
+}
+
+div.imageNav-header {
+    text-align: center;
+    color: rgb(41, 194, 168);
+	font-size: 18px;
+	font-family: Arial, Helvetica, sans-serif;
+}
+
+@media (max-width: 600px){ 
+
+
+
+}
+
+
+
